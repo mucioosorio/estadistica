@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://mucioosorio.github.io/estadistica/sitemap.xml
